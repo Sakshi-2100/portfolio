@@ -5,25 +5,19 @@ Web Portfolio to showcase projects and skills in better manner.
 
 
 ![Image](https://github.com/Sakshi-2100/portfolio/blob/master/portfolio_pic.JPG)
-### About me
-* Competitive Programming Page
-* Web Designing Page
-* Software Development Page
-* Android Application Page
-* Technical Writing Page
-* Machine Learning Page
-* Open Source Page
-
+### Home Page
+* Short Intro
 ### Hire Me banner
+### About me
+* Education Background
+### My Projects
+* Whatsapp Clone
 ### Skills
 * Skills with progress bar
-### Education
-* Undergrad
-* Intermediate
-### Work Experience
+### My Team
 ### Contact
 * Mail Address
-* Location
+* Contact Number
 
 ### Footer
 ------------------------------------------------------------------
@@ -38,7 +32,7 @@ Web Portfolio to showcase projects and skills in better manner.
 
 1. Click on `Fork`.
 2. Go to your fork and `clone` the project to your local machine.
-3. `git clone https://github.com/yourgithubpseudo/vinaysomawat.github.io.git`
+3. `git clone https://github.com/yourgithubpseudo/portfolio.git`
 
 #### To contribute to the project:
 
