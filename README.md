@@ -4,7 +4,7 @@ Web Portfolio to showcase projects and skills in better manner.
 ###### http://sakshi-2100.github.io/portfolio/
 
 
-![Image](https://github.com/vinaysomawat/vinaysomawat.github.io/blob/master/vinaysomawatgithubio.gif)
+![Image](https://github.com/Sakshi-2100/portfolio/blob/master/portfolio_pic.JPG)
 ### About me
 * Competitive Programming Page
 * Web Designing Page
