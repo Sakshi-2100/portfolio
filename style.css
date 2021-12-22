@@ -314,6 +314,18 @@ section .title::after{
     font-weight: 500;
     margin: 10px 0 7px 0;
 }
+.projects .serv-content .card .box .text .p{
+    line-height: 1.8rem;
+}
+.sourceCode{
+    text-decoration: none;
+    color: inherit;
+}
+.websiteHost{
+    text-decoration: none;
+    color: white;
+}
+
 
 /* skills section styling */
 
